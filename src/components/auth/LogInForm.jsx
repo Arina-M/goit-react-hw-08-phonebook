@@ -26,7 +26,7 @@ export const LogInForm = () => {
 
   return (
     <div>
-      <Title>LogIn form of User</Title>
+      <Title>LogIn form</Title>
       <FormWrapper onSubmit={handleSubmit} autoComplete="off">
         <TitleInput>
           email

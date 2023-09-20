@@ -27,7 +27,7 @@ export const RegistrationForm = () => {
 
   return (
     <div>
-      <Title>Registration form of User</Title>
+      <Title>Registration form</Title>
       <FormWrapper onSubmit={handleSubmit} autoComplete="off">
         <TitleInput>
           Name
